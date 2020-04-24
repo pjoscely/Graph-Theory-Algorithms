@@ -6,7 +6,7 @@ Created on Thu Apr 23 15:36:02 2020
 @author: joscelynec
 """
 '''
-Gale Shapley Algorithm
+Gale-Shapley Algorithm
 
 We'll implement the Stable Matching algorithm from the previous lesson.
 Recall the pseudocode of the algorithm:
