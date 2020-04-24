@@ -7,7 +7,7 @@ Created on Thu Apr 23 15:36:02 2020
 """
 '''
 Gale Shapley Algorithm
-Final Project for courser.org
+Final Project for coursera.org
 Introduction to Graph Theory
 
 We'll implement the Stable Matching algorithm from the previous lesson.
