@@ -7,7 +7,7 @@ Created on Thu Apr 23 15:36:02 2020
 """
 '''
 Gale Shapley Algorithm
-Final Project for coursera.org
+Final Project for courser.org
 Introduction to Graph Theory
 
 We'll implement the Stable Matching algorithm from the previous lesson.
@@ -90,3 +90,8 @@ assert (stableMatching(4, [[0, 1, 3, 2], [0, 2, 3, 1], [1, 0, 2, 3], [0, 3, 1, 2
 print(stableMatching(1, [ [0] ], [ [0] ]))
 print(stableMatching(2, [ [0,1], [1,0] ], [ [1,0], [0,1] ]))
 print(stableMatching(4, [[0, 1, 3, 2], [0, 2, 3, 1], [1, 0, 2, 3], [0, 3, 1, 2]],[[3, 1, 2, 0], [3, 1, 0, 2], [0, 3, 1, 2], [1, 0, 3, 2]]))
+'''
+[0]
+[0, 1]
+[1, 2, 3, 0]
+'''
